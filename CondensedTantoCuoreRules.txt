@@ -1,0 +1,178 @@
+Official rulebooks can be downloaded for free here:
+https://www.japanimegames.com/pages/tanto-cuore-resources/
+
+General rules for quick reference are listed first. Card type descriptions and turn phase specifics are listed after.
+
++++++++++++++++++++++
++++ General rules +++
++++++++++++++++++++++
+
+== Terminology ==
+The Town - the center of the table
+House - each player's playing area
+Waiting Room - a player's deck
+Kitchen entrance - discard pile
+Serving area - place to put cards played from the hand
+Private Quarters - separate area for persistent cards
+Call staff - draw a card
+Being served - to play a maid card from your hand
+Dismiss staff - discarding a card
+Get rid of/fire staff - return cards to the Town
+Send staff into the Waiting Room - put the card on top of your deck
+Send staff to the back of the Waiting Room - put the card on the bottom of your deck
+
+== Setup ==
+One set can support up to 4 players. To set up a game using a single set:
+1. Sort out the two types of Maid Chief cards and place them in their own piles in the Town.
+2. Sort out the three types of “Love” cards and place them in their own piles in the Town.
+3. Select 10 of the General Maids randomly or by choice. Place them face-up in their own piles in the town, preferably in order of cost (the top left number on each card). Any combination of General Maids is acceptable when using only one set. Return the unused General Maids to the game box.
+4. Each set has additional decks to add to the Town. See below.
+5. Each player takes 7 "1 Love" cards and three Maid Chief cards depending on the set being used (Marianne for base, Claudine for Expanding the House, Beatrice for Romantic Vacation, or Matilde for Oktoberfest). This is the player's Waiting Room. Each player shuffles their Waiting Room and calls 5 staff.
+
+Additional decks:
+• Private Maids - shuffle all Private Maids into one deck face-down in the Town. Take the top two cards and place them face-up next to the deck.
+• Events - each event is sorted into its own pile and placed face-up in the Town.
+• Buildings - each Building is sorted into its own pile and placed face-up in the Town.
+• Reminiscence - sort the cards by number (1 or 2). Shuffle each pile individually face-down, then place Reminiscence 1 on top of Reminiscence 2 in the Town. Take the top three cards and place them face-up next to the pile.
+• Beer - place the Oktoberfest card face up in the Town. Shuffle the rest into one pile and place it face-down next to the Oktoberfest card.
+
+When combining sets, follow the single-set setup with these exceptions:
+• Pick one set to use Maid Chiefs from.
+• Use any additional decks (Note: Oktoberfest's rules suggest using only Reminiscence 1, not both, when combining sets)
+• Use only one set of Love cards
+• If Oktoberfest is being used, at least one Bar Maid must be chosen when selecting General Maids.
+• Game ending conditions from all sets used apply.
+
+When playing with 5 or more players, follow the single-set setup with these exceptions:
+• Use two sets of Love cards
+• The game ends after 3 Maid piles are exhausted
+• Other game-ending conditions are unchanged (beer running out, etc)
+
+== Basic Turn Structure ==
+Turns pass clockwise. A turn has 4 phases. The phases are:
+1. Starting phase - resolve efects of cards in Private Quarters
+2. Serving phase - use Servings to play Maid cards, resolve any effects as Maids are played
+3. Employ phase - use Employments and Love to buy Maids/Love/Events/Buildings/Reminiscence
+4. Dismiss phase - discard everything not in your Private Quarters or Waiting Room and draw 5 cards
+Each Starting phase you are given one Serve and one Employment to be used only during their respective phases. More of each can be generated through a serving Maid's effects. A Maid's effect resolves in the following order:
+1. Draw any cards (top left symbol in text box)
+2. Gain Love (bottom left), Servings (top right), and Employments (bottom right)
+3. Resolve effects in text box
+
+== Game End and Victory ==
+When any two maid piles are exhausted (not including the Love, Building, Event, Reminiscence, or Beer piles), the game will end after the current player finishes their turn. If Oktoberfest is used, the game also ends when the Beer pile is exhausted.
+
+To determine the winner:
+• Check your hand, deck, and discard pile for cards with Victory Points (VP) and total them up.
+• Then count all VP from Maids, Buildings, and Beer in your Private Quarters, remembering to include any end-game bonuses. Add these to the total.
+• Count all negative VP from effects and subtract that from the total
+Victory Points are noted in the top right of each card. Some cards have a question mark (?) in this spot; their VP only counts if the requirement stated on the card is met. Also, note that even cards which have a fixed VP number may have bonuses or penalties; don’t forget to check the card for end-game bonuses.
+
+The player with the most VP is the winner! In case of a tie, the player with the most non-VP generating maids wins. If it’s still a tie, the player who likes Tanto Cuore the most is the winner.
+The winner is crowned the “Perfect Master”!
+
+
+
+
+
+++++++++++++++++++++++++
++++ Detailed Rulings +++
+++++++++++++++++++++++++
+
+== Turn Phases in Detail ==
+
+1. Starting Phase
+During this phase, effects from certain Private/Chambermaids and Event Cards take place. Each Private/Chambermaid has the timing of her effect noted on the card, and their effect can only take place once per turn. Private/Chambermaids who are ill do not generate their effect.
+A player who has a Illness card placed on any of their Private/Chambermaids may, during the Starting Phase, dismiss a ”3 Love” card in order to get rid of the illness (return it to the Town). As soon as a Private/Chambermaid gets rid of her Illness, she may use her effect immediately.
+
+2. Serving Phase
+The main phase. It’s during this phase that the player plays (is served by) General Maids (sometimes even Maid Chiefs) to gain their effects.
+Being served by a maid costs (unless anything else is stated) one (1) ”serving”, and each player gets only one serving at the start of their Serving Phase. This means that each player can only be served by one maid per turn, unless they are served by a maid that generates more servings. (Please note that only playing maid cards from your hand costs servings. Gaining effects from chambermaids (see later) does not cost Servings).
+When a player is served by a maid, they first receive the bonuses described by the symbols on the card – Servings, Callings, Love and Employments. Of these, Callings are used immediately; the player must call the specified number of staff from their Waiting Room (draw cards from their deck) as soon as they receive Callings. If there are any maids among the staff the player calls, they may serve the player during this same Serving Phase (provided the player has Servings left).
+Servings, Love and Employments, though, are stacked. Servings must be used during the Serving Phase, and Employments and Love are used during the Employ Phase, but they do not need to be used immediately. However, no Servings, Love or Employments carry over into the next turn – they are all lost in the players’ Dismiss Phase.
+Any text on the maid card is resolved after the player has received the symbol bonuses.
+Certain maids may, instead of serving the player, become chambermaids. To chambermaid a maid means to set her aside from the playing area, in the player’s Private Quarters (the area beside the play area, reserved for set-aside cards). Chambermaids will not be dismissed during the Dismiss phase, but the player retains ownership. For details, see the "Maids" card type block below.
+If nothing else is stated, the serving phase ends when the player decides to end it. Usually, it ends when the player has no more Servings or maids by their side. Strictly spoken, however, the phase does not end just because the player runs out of Servings; any effects that must take place during the Serving phase may still be applied even if the player has no Servings left. As stated earlier, no Servings are carried over to the next turn.
+
+3. Employ Phase
+After the player has been served by their maid(s), they may employ staff from the town, which means buy a card from the town. A player can only employ 1 staff member per turn, unless maid effects have increased this number.
+To employ a card, the player must have the necessary amount of Love to give to the new staff member. The player may, in the Employ Phase, play any amount of Love cards from their hand to add to any Love they might have gained from being served by maids during the Serving. It does not cost any Servings to play Love cards. Put the employed card directly into your discard pile.
+Employing one staff member costs also 1 Employment. Each player gets only 1 Employment at the start of each of their Employ Phases, which means they may employ at least 1 staff member per turn. However, if the player has gained more Employments from maid effects, they may employ as much staff as their number of Employments allow, but they must have enough Love to give to all of the employed staff.
+If a player wants a Private Maid they can only employ one of the two face-up Private Maids. As soon as anyone employs a Private Maid, draw the next card from the Private Maid stack to replace her.
+Newly employed General Maids and Love go to your kitchen entrance, whereas Private Maids go to your Private Quarters, and Events go to any player’s Private Quarters. Please note that no newly employed staff goes into your Waiting Room (draw deck) or to your side (hand), nor into any other player’s kitchen entrance, unless specifically stated.
+The Employment Phase ends when the player runs out of Employments or Love, or, strictly spoken, when they decides to end it.
+
+4. Dismiss Phase
+The final part of a player’s turn. All staff that served the player, and all staff still by their side, are dismissed (all played cards and cards left in hand are put in the player’s discard pile). However, the staff in the player’s Private Quarters (Private Maids, Chambermaids, Event cards etc) stay where they are, they are not dismissed.
+Next, the player calls five staff members from the Waiting Room (draws five cards from their deck). If the Waiting Room runs out of staff (no cards in the draw pile), the player calls as many as they can, then all staff in the kitchen entrance rush in total disorder to the Waiting Room (shuffle the discard pile and form a new draw
+deck) and then the player calls those missing.
+As mentioned earlier, all excess Love, Servings and Employments are lost at this point. They do not carry over to the next turn.
+
+
+== Card types ==
+===================================
++ Maids (General, Private, Chief) +
+===================================
+Playing a maid card from your hand (being served by a maid) costs one ”serving”. Each player has one serving per turn, so basically, the player can only be served by one maid per turn. (However, certain maids generate more ”servings” and will thus allow the player be able to be served by more maids).
+
+Certain maids have the title Chambermaid or Chambermaid chief. These may become Chambermaids, which means they can be set aside of the playing area, in the player’s Private Quarters, instead of serving the player. None of their bonuses or effects will happen and they and will not be dismissed in the Dismiss phase. They will stay in the player’s private quarters until the end of the game or some effect forces them away. The player retains ownership and any Victory Points are still valid.
+To chambermaid a maid usually costs 1 Serving, but chambermaiding a maid chief can cost 2 Servings – it’s noted on the card.
+Some Chambermaids have a so-called Chambermaid Bonus. The Chambermaid bonus is not applicable unless the maid is a chambermaid, and can thus not be activated if you are served by her normally or, in the case of end-game Victory Point bonuses, she is in your Waiting Room when the game ends.
+
+Private Maids can be seen as instant chambermaids. Once employed, a Private Maid goes straight to your private quarters and will generate her effect once (and only once) each turn. Some Private Maids are sent to other players’ private quarters instead and might generate bad effects. They can never enter any Waiting Room nor kitchen entrance.
+A player may only employ (or gain from a card effect) one of the two face-up Private Maids. When one of these are employed, draw the next Private Maid from the stack in town (if possible).
+Gaining the effect of a Private Maid does not cost any Servings. Each Private Maid effect has its own timing, please refer to the card text. Also, please note that the symbol bonuses on Private Maids sometimes are conditional; again, refer to the card text.
+A player may employ any number of Private Maids but each player can only have one active Private Maid at any given time. If a player with a Private Maid gains a new Private Maid, the new maid is placed on top of their former one, who loses all her effects except her VP and/or end game bonuses. The player may not change the order of their personal stack of Private Maids.
+If a Private Maid is fired, she is placed face down at the bottom of the Private Maid draw pile in town.
+
+========
++ Love +
+========
+Love cards generate Love that is used to employ new staff (buy new cards), and are mostly played during the Employ Phase, but can generally be played at any time.
+During a turn, the player may play as many Love cards as they wish to add to their amount of Love (they might have gained some Love from the maids they played during the Serving Phase). No Servings are needed to play Love cards.
+A ”1 Love” card will give 1 Love, a ”2 Love” cards will give 2 Love and a ”3 Love” card will give 3 Love. Obviously enough.
+Love is not kept between turns. Any unused Love is lost when the player’s turn ends.
+
+==========
++ Events +
+==========
+Event cards apply various kinds of effects (usually negative ones) to the owner. They are employed during the Employ Phase just like other cards, but they usually don't go into the player's decks. Instead, they are placed in a player’s Private Quarters or on a Chambermaid. The player who receives this card becomes the owner of the card and suffers effects.
+
+A Bad Habit card must, when employed or gained by a card effect, be sent into Private Quarters containing at least one Private Maid, Chambermaid or Chambermaid chief. The active player decides which player should get the Bad Habit. The player who receives the Bad Habit cannot refuse it, unless they has a card in their hand which allows them to (like Claire). There is no limit as to how many Bad Habits a player may have.
+
+An Illness must, when employed, be played onto either a Private Maid, a Chambermaid or a Chambermaid chief, the active player decides which. The player who receives the Illness cannot refuse it, unless they has a card in their hand which allows them to (like Claire). The Illness card is placed on top of the Private Maid or the Chambermaid (chief).
+Only the top Private Maid in a player’s Private Maid pile can be made ill. Players may place Illnesses on their own private maid if they wish.
+A Private/Chambermaid who is ill loses all her power and all her VP. Simply, she counts as if she’s not there, though an ill Private Maid still blocks the power of any Private Maids beneath her. Several illnessess may be played onto the same Private/Chambermaid.
+Players may dismiss a ”3 Love” card during the Starting Phase, or be served by Claire during the Serving phase, in order to get rid of an illness. A Private/Chambermaid who gets rid of her illness may immediately generate her effect, provided the timing allows.
+
+=============
++ Buildings +
+=============
+Building cards never enter your deck, but are, when bought, immediately put in your Private Quarters. They generate a good amount of Victory Points and some beneficial effects, but have certain requirements that you must fulfill before they can be bought.
+Buildings are, strictly spoken, Victory Point cards that do not enter your deck. Instead, when bought, they are put in your Private Quarters and will sit there for the remainder of the game unless some card effect forces them away. Buildings might generate some beneficial effects. However, the player must meet certain requirements in order to be able to buy them.
+
+================
++ Reminiscence +
+================
+Reminiscence cards never enter your deck, but are, when acquired, immediately put in your Private Quarters. They generate Victory Points and a one-time powerful effect, but they are not employed by normal means – instead they require you to dismiss a certain combination of staff in order to acquire them.
+Reminiscence cards are, strictly spoken, Victory Point cards that do not enter your deck. Instead, when acquired, they are put in your Private Quarters and will sit there for the remainder of the game unless some card effect forces them away.
+Reminiscence cards are acquired during the Serving phase, by dismissing staff that meets the requirements on the Reminiscence card.
+As soon as a Reminiscence card is acquired, its effects are applied and a new reminiscence card is drawn to replace it (if possible). There should always be three face-up Reminiscence cards.
+A player may only acquire one of the three face-up Reminiscence cards, and only one Reminiscence card per turn.
+
+========
++ Beer +
+========
+Beer cards cannot be employed during the Employ Phase. Instead, players can get Beer cards from other cards' effects. Once you get Beer cards, stack them face down in your Private Quarters. A player can take a look at their own Beer cards at any time.
+Some Beer cards have effects that happen when they're revealed or gained. If a Beer card has such an effect and the conditions listed have been met, the effect happens immediately.
+Most Beer cards have an Alcohol Value. Some cards require you to count up your total Alcohol Value.
+You cannot employ Beer cards like you would maid cards. Beer cards can be gained through the use of a Bar Maid or Beer Stand, or you can gain them from an opponent by playing Get Drunk or Let Me Drink.
+You can gain Beer cards during your Serving Phase or Employ Phase.
+
+There are two maids who have “Bar Maid” as their title. When you play these maids and pay the requirements, you can gain a Beer card.
+Also, when a player gains the Beer card named “Beer Stand,” all players may gain a Beer card during their Employ Phase if they pay the cost. Beer Stand only remains in play for one round.
+When a player gains a Beer card, the player can choose either a card from the top of the Beer pile (face-down) or face-up Beer card beside the Beer pile (this will be Oktoberfest when the game begins). Once you gain a Beer card, read the card and then put it in your Private Quarters face-down. If the card has an effect that happens when it is revealed or taken, you must reveal the card to all players and resolve the effect. You may look at your Beer cards at any time.
+If you chose to gain a face-up Beer card, you must put another Beer card in its place. Take the top card from the Beer pile and put it in Town face-up. If the card is “Get Drunk,” you must resolve the effect first, and then refill one more Beer card.
+
+Most of the Beer cards have an Alcohol Value. When the Beer card “Get Drunk” is revealed or the maid card “Ute Krombach” is played, you may need to count up your Alcohol Value. When you count up your Alcohol Value, collect all Beer cards in your Private Quarters, and add up their Alcohol Values. (If the card that requires you to count the Alcohol value is “Get Drunk,” ignore the Beer cards that are under the “Beer Fest” card). After totalling up your Alcohol Value, put all of your Beer cards back in your Private Quarters face-down.
+
